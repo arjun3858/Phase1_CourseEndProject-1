@@ -1,0 +1,7 @@
+E:\Visual studio 2022 Env\AssessmentProject1\AssessmentProject1\bin\Debug\AssessmentProject1.exe.config
+E:\Visual studio 2022 Env\AssessmentProject1\AssessmentProject1\bin\Debug\AssessmentProject1.exe
+E:\Visual studio 2022 Env\AssessmentProject1\AssessmentProject1\bin\Debug\AssessmentProject1.pdb
+E:\Visual studio 2022 Env\AssessmentProject1\AssessmentProject1\obj\Debug\AssessmentProject1.csproj.AssemblyReference.cache
+E:\Visual studio 2022 Env\AssessmentProject1\AssessmentProject1\obj\Debug\AssessmentProject1.csproj.CoreCompileInputs.cache
+E:\Visual studio 2022 Env\AssessmentProject1\AssessmentProject1\obj\Debug\AssessmentProject1.exe
+E:\Visual studio 2022 Env\AssessmentProject1\AssessmentProject1\obj\Debug\AssessmentProject1.pdb
